@@ -11,25 +11,24 @@ IoT와 빅데이터 기술을 기반으로 헬스케어 플랫폼을 개발하�
 > *사명이 록스307 ➡️ 케어스퀘어로 변경되었습니다.
 ### 걸어온 길 🏆
 
-- 2020년 2월에 비대면 임상시험 복약관리 서비스 DoseEase를 출시
-- 2022년 1월 현재 동네 병원을 대상으로하는 전자의무기록 보조 프로그램 MediEase/CareEase 1.0 버전을 출시하여 실증 테스트를 성공적으로 마쳤으며, 본격적으로 플랫폼 고도화 및 영업/마케팅 활동을 전개하기 위한 준비를 하고 있습니다. 
-- 수 개월의 실증 테스트를 통해 Market Fit을 검증하고, 유의미한 사용자 지표 및 Real World 의료 데이터를 수집하고 있으며, 이를 바탕으로 본격적인 헬스케어 빅데이터 사업을 전개하고 있습니다.
+- 2020년 2월 > 비대면 임상시험 복약관리 서비스 DoseEase 출시 👏
+- 2022년 1월 > 동네 의원의 EMR(전자의무기록) 보조 프로그램 MediEase 출시 && 개인사용자용 건강관리앱 케어이즈 출시
+- 수 개월의 실증 테스트를 통해 Market Fit을 검증하고, 유의미한 사용자 지표 및 Real World 의료 데이터를 수집하고 있습니다.
 
 
 ## 채용중인 분야
-
 * Frontend Engineer (경력무관 / 경력채용)
 * Backend Engineer (경력무관 / 경력채용)
-* DevOps Engineer (경력무관 / 경력채용)
-* Mobile Engineer (경력무관 / 경력채용)
+* Blockchain Core Enginner (컴퓨터공학과 또는 정보통신계열 학사 이상, 연구능력 필요, 영어능력 필요)
 * Quality Assurance Engineer (경력무관 / 경력채용)
+* 서비스 운영지원인력 (SQL 사용능력 필수)
 
 
 ## 개발 프로세스
-
 * Lean Startup
 * 빠른 프로토타이핑을 지향합니다.
 * 작업자가 2명 이상일 경우, 코드 리뷰가 완료된 소스만 배포합니다.
+* ~~프론트엔드도 코드리뷰를 하고 싶다~~
 
 ## 개발팀 소개
 
@@ -45,16 +44,27 @@ IoT와 빅데이터 기술을 기반으로 헬스케어 플랫폼을 개발하�
 
 
 ## 기술 스택
+### 언어
+* Go, Vue.js, javascript, kotlin, Dart
 
-* 웹 서비스 프레임워크 : Go / Vue
-* 시스템 인프라 : AWS
-* 주요 개발 환경 및 기술 스택
- * Javascript, Vue 2.x, jQuery
- * Golang, Astilectron
- * Dart, Flutter
- * Git
- * MariaDB, Postgresql
- * VsCode, Android Studio, Notepad++
+### 프론트엔드
+* 웹 서비스 프레임워크 : Vue.js
+
+### 백엔드
+* gPRC, sqlboiler, echo
+
+### 블록체인
+* tethys
+
+### 데이터베이스
+* MySQL, Postgresql, MSSQL
+* (2022년에는 데이터를 더 다루기 위한 모험이 예고되어 있습니다.)
+
+### 데브옵스
+* jenkins, docker, github
+
+### 협업도구
+* trello, confluence
  
 
 ## 개발 기본 장비
@@ -78,12 +88,13 @@ IoT와 빅데이터 기술을 기반으로 헬스케어 플랫폼을 개발하�
 ## 청년 복지
 
 * [청년내일채움공제](https://www.work.go.kr/youngtomorrow)
-
+* [중기부 청년대출](https://www.kukinews.com/newsView/kuk202112200209) ~~나랏님 혜택1~~
+* [중소기업 청년 소득세 감면](https://www.youthcenter.go.kr/jynTips/jynTipsDetail.do?tipsId=202107160003) ~~나랏님 혜택2~~
 
 ## 소소한 복지
 
 * 스터디 / 업무용 도서 구매 지원
-* 계약된 카페에서 커피 제공
+* 계약된 카페 3곳에서 커피 제공
 * 최신 네스프레소 캡슐 커피 제공
 * 직접 에스프레소를 내릴 수 있는 반자동 커피머신 사용 가능
 * 각종 음료수와 간식 제공
