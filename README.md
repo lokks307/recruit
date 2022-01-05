@@ -2,6 +2,7 @@
 
 IoT와 빅데이터 기술을 기반으로 헬스케어 플랫폼을 개발하는 케어스퀘어에서 소프트웨어 엔지니어를 채용합니다.
 
+<br /><br />
 
 ## 케어스퀘어 소개
 
@@ -9,26 +10,34 @@ IoT와 빅데이터 기술을 기반으로 헬스케어 플랫폼을 개발하�
 회사는 설립 직후부터 가능성을 인정받아 2019년 10월 시드머니 투자 유치와 함께 중소벤처기업부 TIPS 프로그램에 선정되었고, 2021년 6월 시리즈A 후속 투자유치에 성공하였습니다.
 
 > *사명이 록스307 ➡️ 케어스퀘어로 변경되었습니다.
-### 걸어온 길 🏆
 
-- 2020년 2월 > 비대면 임상시험 복약관리 서비스 DoseEase 출시 👏
-- 2022년 1월 > 동네 의원의 EMR(전자의무기록) 보조 프로그램 MediEase 출시 && 개인사용자용 건강관리앱 케어이즈 출시
-- 수 개월의 실증 테스트를 통해 Market Fit을 검증하고, 유의미한 사용자 지표 및 Real World 의료 데이터를 수집하고 있습니다.
+<br /><br />
 
+## 걸어온 길 🏆
+
+* 2020년 2월 > 비대면 임상시험 복약관리 서비스 DoseEase 출시 👏
+* 2022년 1월 > 동네 의원의 EMR(전자의무기록) 보조 프로그램 MediEase 출시 && 개인사용자용 건강관리앱 케어이즈 출시
+* 수 개월의 실증 테스트를 통해 Market Fit을 검증하고, 유의미한 사용자 지표 및 Real World 의료 데이터를 수집하고 있습니다.
+
+<br /><br />
 
 ## 채용중인 분야
-* Frontend Engineer ([경력무관](frontend/junior.md) / [경력채용](frontend/senior.md))
+
 * Backend Engineer (경력무관 / 경력채용)
+* Frontend Engineer ([경력무관](frontend/junior.md) / [경력채용](frontend/senior.md))
 * Blockchain Core Enginner (컴퓨터공학과 또는 정보통신계열 학사 이상, 연구능력 필요, 영어능력 필요)
 * Quality Assurance Engineer (경력무관 / 경력채용)
 * 서비스 운영지원인력 (SQL 사용능력 필수)
 
+<br /><br />
 
 ## 개발 프로세스
 * Lean Startup
 * 빠른 프로토타이핑을 지향합니다.
 * 작업자가 2명 이상일 경우, 코드 리뷰가 완료된 소스만 배포합니다.
-* ~~프론트엔드도 코드리뷰를 하고 싶다~~
+  * ~~프론트엔드 개발자가 한 명뿐이라서 코드리뷰를 못하고 있어요~~
+
+<br /><br />
 
 ## 개발팀 소개
 
@@ -42,28 +51,34 @@ IoT와 빅데이터 기술을 기반으로 헬스케어 플랫폼을 개발하�
 * 직책과 역할이 다를 수 있어도 사람 간의 관계에 있어서는 계급이 존재하지 않습니다.
 * 이렇게 스타트업에서 모험하는 당신에게는 **상당한 경험치**가 남을 거예요. 회사까지 같이 성장하면 더 좋고요.
 
+<br /><br />
 
 ## 기술 스택
 
-* 웹 프론트 :  Javascript ES6+
-* 웹 프론트 프레임워크 : Vue 2.x, jQuery
-* 백엔드 :  Golang, gPRC, SQLBoiler, 
-* 백엔드 프레임워크 : Astilectron, Echo, Tethys (자체 개발 블록체인 코어)
-* 모바일 :  Kotlin, Dart
-* 모바일 프레임워크 : Flutter
-* 펌웨어 개발 : C, nRF52840 (BLE)
-* DBMS : MariaDB, PostgreSQL, MSSQL
-* 시스템 인프라 : AWS, Docker
-* CI/CD : Jenkins
-* 버그 트래킹 : Sentry
-* 형상 관리 : Git, Github
+| Category | Descriptions |
+| --- | ---| 
+| 웹 프론트 | Javascript ES6+|
+| 웹 프론트 프레임워크 | Vue 2.x, jQuery |
+| 백엔드 | Golang, gPRC, SQLBoiler |
+| 백엔드 프레임워크 | Astilectron, Echo, Tethys (자체 개발 블록체인 코어) |
+| 모바일 | Kotlin, Dart |
+| 모바일 프레임워크 | Flutter |
+| 펌웨어 개발 | C, nRF52840 (BLE) |
+| DBMS | MariaDB, PostgreSQL, MSSQL |
+| 시스템 인프라 | AWS, Docker |
+| CI/CD | Jenkins |
+| 버그 트래킹 | Sentry |
+| 형상 관리 | Git, Github |
 
-
+<br /><br />
 ## 협업 도구
-
-* 이슈 트래킹 : Trello
-* 문서 관리 : Confluence
+| 용도 | 도구 |
+| --- | --- |
+| 이슈 트래킹 | Trello |
+| 문서 관리 | Confluence, Office 365 |
+| 메신저 | MS Teams |
  
+<br /><br />
 
 ## 개발 기본 장비
 
@@ -72,6 +87,7 @@ IoT와 빅데이터 기술을 기반으로 헬스케어 플랫폼을 개발하�
 * 키보드 : 취향에 따라 선택 가능. 개발하려면 손가락이 편해야죠.
 * 이 밖에 필요에 의한 추가 장비 및 S/W Tool 제공
 
+<br /><br />
 
 ## 복지
 
@@ -82,6 +98,7 @@ IoT와 빅데이터 기술을 기반으로 헬스케어 플랫폼을 개발하�
 * 자율출근제 (9시 ~ 10시 출근)
 * 경조금 / 경조휴가
 
+<br /><br />
 
 ## 청년 복지
 
@@ -89,6 +106,7 @@ IoT와 빅데이터 기술을 기반으로 헬스케어 플랫폼을 개발하�
 * [중기부 청년대출](https://www.kukinews.com/newsView/kuk202112200209) ~~나랏님 혜택1~~
 * [중소기업 청년 소득세 감면](https://www.youthcenter.go.kr/jynTips/jynTipsDetail.do?tipsId=202107160003) ~~나랏님 혜택2~~
 
+<br /><br />
 
 ## 소소한 복지
 
@@ -108,12 +126,15 @@ IoT와 빅데이터 기술을 기반으로 헬스케어 플랫폼을 개발하�
 
 * ~~연구소장님의 빅데이터 딥 러닝 AI 컴퓨터의 사주에 의하면, 회사가 큰 돈을 벌 예정이라고...~~
 
+<br /><br />
 
 ## 위치
 
 * 강남역 4번출구 도보 13분, 역삼역 3번출구 도보 10분
 * 태광빌딩 6층 (서울시 강남구 역삼로 156)
+* 커피타임 괜찮아요.
 
+<br /><br />
 
 ## 미디어
 
