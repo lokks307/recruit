@@ -17,7 +17,7 @@ IoT와 빅데이터 기술을 기반으로 헬스케어 플랫폼을 개발하�
 
 
 ## 채용중인 분야
-* Frontend Engineer (경력무관 / 경력채용)
+* Frontend Engineer ([경력무관](frontend/junior.md) / 경력채용)
 * Backend Engineer (경력무관 / 경력채용)
 * Blockchain Core Enginner (컴퓨터공학과 또는 정보통신계열 학사 이상, 연구능력 필요, 영어능력 필요)
 * Quality Assurance Engineer (경력무관 / 경력채용)
