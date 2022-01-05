@@ -43,28 +43,25 @@ IoT와 빅데이터 기술을 기반으로 헬스케어 플랫폼을 개발하�
 * 이렇게 스타트업에서 모험하는 당신에게는 **상당한 경험치**가 남을 거예요. 회사까지 같이 성장하면 더 좋고요.
 
 
-## 기술 스택
-### 언어
-* Go, Vue.js, javascript, kotlin, Dart
 
-### 프론트엔드
-* 웹 서비스 프레임워크 : Vue.js
+* 웹 프론트 :  Javascript ES6+
+* 웹 프론트 프레임워크 : Vue 2.x, jQuery
+* 백엔드 :  Golang, gPRC, SQLBoiler, 
+* 백엔드 프레임워크 : Astilectron, Echo, Tethys (자체 개발 블록체인 코어)
+* 모바일 :  Kotlin, Dart
+* 모바일 프레임워크 : Flutter
 
-### 백엔드
-* gPRC, sqlboiler, echo
+* DBMS : MariaDB, PostgreSQL, MSSQL
+* 시스템 인프라 : AWS, Docker
+* CI/CD : Jenkins
+* 버그 트래킹 : Sentry
+* 형상 관리 : Git, Github
 
-### 블록체인
-* tethys
 
-### 데이터베이스
-* MySQL, Postgresql, MSSQL
-* (2022년에는 데이터를 더 다루기 위한 모험이 예고되어 있습니다.)
+## 협업 도구
 
-### 데브옵스
-* jenkins, docker, github
-
-### 협업도구
-* trello, confluence
+* 이슈 트래킹 : Trello
+* 문서 관리 : Confluence
  
 
 ## 개발 기본 장비
@@ -90,6 +87,7 @@ IoT와 빅데이터 기술을 기반으로 헬스케어 플랫폼을 개발하�
 * [청년내일채움공제](https://www.work.go.kr/youngtomorrow)
 * [중기부 청년대출](https://www.kukinews.com/newsView/kuk202112200209) ~~나랏님 혜택1~~
 * [중소기업 청년 소득세 감면](https://www.youthcenter.go.kr/jynTips/jynTipsDetail.do?tipsId=202107160003) ~~나랏님 혜택2~~
+
 
 ## 소소한 복지
 
