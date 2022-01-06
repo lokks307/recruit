@@ -1,4 +1,4 @@
-# Frontend Engineer
+# Blockchain Researcher / Engineer
 
 ## 주요 업무
 
