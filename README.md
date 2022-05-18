@@ -58,7 +58,7 @@ IoT와 빅데이터 기술을 기반으로 헬스케어 플랫폼을 개발하�
 | Category | Descriptions |
 | --- | ---| 
 | 웹 프론트 | Javascript ES6+|
-| 웹 프론트 프레임워크 | Vue 2.x, jQuery |
+| 웹 프론트 프레임워크 | Vue 2.x w/ Webpack v4, Vue 3.x w/ Vite |
 | 백엔드 | Golang, gPRC, SQLBoiler |
 | 백엔드 프레임워크 | Astilectron, Echo, Tethys (자체 개발 블록체인 코어) |
 | 모바일 | Kotlin, Dart |
