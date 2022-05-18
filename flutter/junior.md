@@ -1,4 +1,4 @@
-# Flutter Engineer (Mobile - 경력)
+# Flutter Engineer (Mobile - 신입)
 
 ## 주요 업무
 
@@ -8,17 +8,21 @@
 
 <br /><br />
 ## 자격요건 - 이 정도는 필요해요
-- 클린 아키텍쳐를 알고 상황에 맞게 적용한 경험
-- Flutter를 이용해 앱스토어에 올려 서비스를 운영해본 경험
-- GetX 상태 관리 라이브러리를 이해하고 능숙하게 사용한 경험
+- Flutter를 이용한 개발 경험
+- <img src="[./image.png](https://s3.ap-northeast-2.amazonaws.com/caresquare.kr-home/etc/%ED%95%A0%EC%88%98%EC%9E%88%EB%8B%A4.jpg)", height="100x", width="100px">
+- 
+- ![플러터 할 수 있다](https://s3.ap-northeast-2.amazonaws.com/caresquare.kr-home/etc/%ED%95%A0%EC%88%98%EC%9E%88%EB%8B%A4.jpg)
+- 플러터로 개발할 수 있는 사람
+- Flutter 프레임워크에 대한 학습 의지가 높으신 분
+- Flutter 경험 및 배우는 것에 두려움 없으신 분
+- MVVM 패턴을 활용한 개발 경험
+- 마법의 주문을 외울 수 있는 사람
 
 
 <br /><br />
 ## 우대사항
-- Android, iOS 네이티브 개발 경험
-- 객체지향 설계와 Dart/Flutter에 대한 이해
-- 프레임워크에 대한 학습 의지가 높으신 분
-
+- Flutter를 이용해 앱스토어에 올려 서비스를 운영해본 경험이 있으신 분
+- 테스트 코드를 작성하고 리팩터링을 통해 지속적으로 구조를 개선하는 경험이 있으신 분
 
 <br /><br />
 ## 기술적 우대 요건
