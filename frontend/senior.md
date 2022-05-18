@@ -50,7 +50,7 @@
 <br /><br />
 ## 제출 서류
 
-* [이력서](https://lokks.io/wp-content/uploads/2020/12/%EC%A3%BC-%EB%A1%9D%EC%8A%A4307-%EC%9D%B4%EB%A0%A5%EC%84%9C-%EC%96%91%EC%8B%9D.docx)
+* [이력서](https://s3.ap-northeast-2.amazonaws.com/caresquare.kr-home/etc/%EC%A3%BC-%EB%A1%9D%EC%8A%A4307-%EC%9D%B4%EB%A0%A5%EC%84%9C-%EC%96%91%EC%8B%9D.docx)
 * Github 또는 Gitlab, Bitbucket 주소나 포트폴리오 접속 링크
 
 <br /><br />
