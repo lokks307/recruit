@@ -7,14 +7,15 @@
   - 도즈이즈 [iOS](https://apps.apple.com/kr/app/doseease-%EB%8F%84%EC%A6%88%EC%9D%B4%EC%A6%88-%EB%8C%80%EC%83%81%EC%9E%90%EC%9A%A9/id1496893574) / [Android](https://play.google.com/store/apps/details?id=io.lokks307.doseease&hl=ko&gl=US)
 
 <br /><br />
-## 자격요건 - 이 정도는 필요해요
+## 자격요건
 - 클린 아키텍쳐를 알고 상황에 맞게 적용한 경험
-- Flutter를 이용해 앱스토어에 올려 서비스를 운영해본 경험
+
 - GetX 상태 관리 라이브러리를 이해하고 능숙하게 사용한 경험
 
 
 <br /><br />
 ## 우대사항
+- Flutter를 이용해 앱스토어에 올려 서비스를 운영해본 경험
 - Android, iOS 네이티브 개발 경험
 - 객체지향 설계와 Dart/Flutter에 대한 이해
 - 프레임워크에 대한 학습 의지가 높으신 분
@@ -40,8 +41,6 @@
 - Github 주소, 포트폴리오를 함께 제출해주세요
 
 <br /><br />
+<br /><br />
 ## 지원 방법
-
-> 📌 위 채용 공고에 적합한 경력과 역량을 보유하셨다면 아래 채널로 지원바랍니다.
-
-📧 이메일 지원 및 문의 : recruit@caresquare.kr
+🧑‍💻경력이라면? [PR로 제출하기](../apply/senior.md)
