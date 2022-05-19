@@ -1,6 +1,6 @@
 # 케어스퀘어 모험가 모집 - 개발직군
 
-![가슴이 웅장해지는 케어스퀘어 배경](https://s3.ap-northeast-2.amazonaws.com/caresquare.kr-home/etc/bg.png)
+![케어스퀘어 배경](https://s3.ap-northeast-2.amazonaws.com/caresquare.kr-home/etc/resize_bg.png)
 
 IoT와 빅데이터 기술을 기반으로 헬스케어 플랫폼을 개발하는 케어스퀘어에서 소프트웨어 엔지니어를 채용합니다.
 
