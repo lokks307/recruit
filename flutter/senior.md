@@ -34,6 +34,9 @@
 
 ### 아래에 해당하시면 매일, 하루에 이력서 세 번씩 정독하겠습니다.
 - 테스트 자동화 및 테스트 주도 개발 경험이 있으신 분
+- 어떻게든 해냈던 경험이 있으신 분
+
+![우리는 능이버섯이 아니다](https://s3.ap-northeast-2.amazonaws.com/caresquare.kr-home/etc/%EB%8A%A5%EC%9D%B4%EB%B2%84%EC%84%AF%EC%95%84%EB%8B%88%EB%8B%A4.jpg)
 
 <br /><br />
 ## 제출 방법

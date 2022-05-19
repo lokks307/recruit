@@ -1,5 +1,7 @@
 # 케어스퀘어 모험가 모집 - 개발직군
 
+![가슴이 웅장해지는 케어스퀘어 배경](https://s3.ap-northeast-2.amazonaws.com/caresquare.kr-home/etc/bg.png)
+
 IoT와 빅데이터 기술을 기반으로 헬스케어 플랫폼을 개발하는 케어스퀘어에서 소프트웨어 엔지니어를 채용합니다.
 
 <br /><br />
@@ -8,6 +10,8 @@ IoT와 빅데이터 기술을 기반으로 헬스케어 플랫폼을 개발하�
 
 (주)케어스퀘어는 빅데이터 기반 건강 관리 서비스를 개발하고 있는 헬스케어 플랫폼 회사입니다. 동네 병원 원장님들에게 편리하고 자동화된 진료 및 원무 서비스를 제공하고, 환자들에게 사용하기 쉬운 건강관리앱을 함께 개발하고 있습니다. 그리고 비대면 임상시험 플랫폼을 개발하고 있습니다. 우리가 만든 코드가 제품으로 바뀌고, 제품이 사람들 손에 의해 사용되는 재미있는 경험을 하고 있습니다.
 회사는 설립 직후부터 가능성을 인정받아 2019년 10월 시드머니 투자 유치와 함께 중소벤처기업부 TIPS 프로그램에 선정되었고, 2021년 6월 시리즈A 후속 투자유치에 성공하였습니다.
+<br />
+2022년 추가 펀딩을 받으며 사세가 확장되었고, 더 많은 개발자를 모실 수 있게 되었습니다.
 
 
 
@@ -15,7 +19,7 @@ IoT와 빅데이터 기술을 기반으로 헬스케어 플랫폼을 개발하�
 
 ## 걸어온 길 🏆
 
-* 2020년 2월 > 비대면 임상시험 복약관리 서비스 DoseEase 출시 👏
+* 2020년 2월 > 비대면 임상시험 복약관리 서비스 DoseEase 출시 👏 [서비스 소개 보러가기🌐](https://info.dose-ease.com/index_kr.html)
 * 2022년 1월 > 동네 의원의 EMR(전자의무기록) 보조 프로그램 MediEase 출시 && 개인사용자용 건강관리앱 케어이즈 출시
 * 수 개월의 실증 테스트를 통해 Market Fit을 검증하고, 유의미한 사용자 지표 및 Real World 의료 데이터를 수집하고 있습니다.
 
@@ -24,8 +28,8 @@ IoT와 빅데이터 기술을 기반으로 헬스케어 플랫폼을 개발하�
 ## 채용중인 분야
 
 * Backend Engineer (경력무관 / 경력채용)
-* Frontend Engineer (경력무관 / [경력채용](frontend/senior.md))
-* Flutter(Mobile) Engineer (경력무관 / [경력채용](flutter/senior.md))
+* Frontend Engineer ([경력무관](frontend/junior.md) / [경력채용](frontend/senior.md))
+* Flutter(Mobile) Engineer ([경력무관](flutter/junior.md) / [경력채용](flutter/senior.md))
 * Blockchain Core Researcher ([경력무관](blockchain/researcher.md))
 * Quality Assurance Engineer (경력무관 / 경력채용)
 * 서비스 운영지원인력 (경력무관)
@@ -97,7 +101,7 @@ IoT와 빅데이터 기술을 기반으로 헬스케어 플랫폼을 개발하�
 * 열심히 일한 직원에게 연말 특별 보너스 지급
 * 자율출근제 (9시 ~ 10시 출근)
 * 경조금 / 경조휴가
-* 요새 사내에서 탁구침
+* 사내에서 탁구침
 
 <br /><br />
 
@@ -142,3 +146,14 @@ IoT와 빅데이터 기술을 기반으로 헬스케어 플랫폼을 개발하�
 * [록스307-세이프소프트, 임상시험 플랫폼 공동 사업 위한 협약 맺어](https://www.donga.com/news/article/all/20201210/104376774/2)
 * [록스307, 중소벤처기업부 TIPS(팁스) 최종 선정 - 블록미디어, 2019-12-30](https://www.blockmedia.co.kr/archives/122383)
 * [록스307, 서울대기술지주회사로부터 시드머니 투자 유치 - 블록미디어, 2019-12-19](https://www.blockmedia.co.kr/archives/121205)
+
+
+
+## CTO가 전하고 싶은 마음
+![모험가가 필요하다](https://s3.ap-northeast-2.amazonaws.com/caresquare.kr-home/etc/men-wanted.webp)
+
+- 케어스퀘어는 스타트업입니다.
+- 케어스퀘어는 성장하고 있습니다.
+- 우리 회사의 서비스와 기술이 무너지지 않도록 버티는 것은 제가 해내겠습니다. ~~사과도 내몫~~
+- 약속할 수 있는 것은 honor and recognition in case of success.
+>  위대한 탐험가 [어니스트 섀클턴](https://terms.naver.com/entry.naver?docId=3566858&cid=59014&categoryId=59014)보다는 사정이 좋습니다.ㅎㅎ!
