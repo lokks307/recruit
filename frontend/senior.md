@@ -47,6 +47,8 @@
 * 복잡도 높은 대시보드 웹 어플리케이션 개발 경험이 있으신 분
 * 디자인 시스템 개발에 대한 경험이 있거나 관심이 있으신 분 (혹은 Storybook 등을 사용해 UI를 관리해보신 분)
 
+![우리는 능이버섯이 아니다](https://s3.ap-northeast-2.amazonaws.com/caresquare.kr-home/etc/%EB%8A%A5%EC%9D%B4%EB%B2%84%EC%84%AF%EC%95%84%EB%8B%88%EB%8B%A4.jpg)
+
 <br /><br />
 <br /><br />
 ## 지원 방법
