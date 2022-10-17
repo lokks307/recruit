@@ -19,7 +19,7 @@ IoT와 빅데이터 기술을 기반으로 헬스케어 플랫폼을 개발하�
 
 ## 걸어온 길 🏆
 
-* 2020년 2월 > 비대면 임상시험 복약관리 서비스 DoseEase 출시 👏 [서비스 소개 보러가기🌐](https://info.dose-ease.com/index_kr.html)
+* 2020년 2월 > 비대면 임상시험 복약관리 서비스 DoseEase 출시 👏 [서비스 소개 보러가기🌐](https://dose-ease.com/index_kr.html)
 * 2022년 1월 > 동네 의원의 EMR(전자의무기록) 보조 프로그램 MediEase 출시 && 개인사용자용 건강관리앱 케어이즈 출시
 * 수 개월의 실증 테스트를 통해 Market Fit을 검증하고, 유의미한 사용자 지표 및 Real World 의료 데이터를 수집하고 있습니다.
 
@@ -27,9 +27,9 @@ IoT와 빅데이터 기술을 기반으로 헬스케어 플랫폼을 개발하�
 
 ## 채용중인 분야
 
-* Backend Engineer (경력무관 / 경력채용)
-* Frontend Engineer ([경력무관](frontend/junior.md) / [경력채용](frontend/senior.md))
-* Flutter(Mobile) Engineer ([경력무관](flutter/junior.md) / [경력채용](flutter/senior.md))
+* Backend Engineer ([경력무관](backend/junior.md) / [경력채용](backend/senior.md))
+* Frontend Engineer ( closed / [경력채용](frontend/senior.md))
+* Flutter(Mobile) Engineer ( closed / [경력채용](flutter/senior.md))
 * Blockchain Core Researcher ([경력무관](blockchain/researcher.md))
 * Quality Assurance Engineer (경력무관 / 경력채용)
 * 서비스 운영지원인력 (경력무관)
