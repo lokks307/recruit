@@ -1,6 +1,9 @@
 # 케어스퀘어 모험가 모집 - 개발직군
 
-![케어스퀘어 배경](https://s3.ap-northeast-2.amazonaws.com/caresquare.kr-home/etc/resize_bg.png)
+
+  <img src="https://s3.ap-northeast-2.amazonaws.com/caresquare.kr-home/etc/resize_bg.png" data-canonical-src="https://s3.ap-northeast-2.amazonaws.com/caresquare.kr-home/etc/resize_bg.png" width="900" />
+  <br>
+
 
 IoT와 빅데이터 기술을 기반으로 헬스케어 플랫폼을 개발하는 케어스퀘어에서 소프트웨어 엔지니어를 채용합니다.
 
@@ -54,6 +57,13 @@ IoT와 빅데이터 기술을 기반으로 헬스케어 플랫폼을 개발하�
 * 이렇게 스타트업에서 모험하는 당신에게는 **상당한 경험치**가 남을 거예요. 
 
 `* 임직원이 함께 성장하는 과정에서 회사도 성장하게 됩니다.`
+
+
+  <img src="https://s3.ap-northeast-2.amazonaws.com/caresquare.kr-home/etc/c2%EC%8B%A0%EC%9E%85.jpg" data-canonical-src="https://s3.ap-northeast-2.amazonaws.com/caresquare.kr-home/etc/c2%EC%8B%A0%EC%9E%85.jpg" width="900" />
+  <br>
+  2022.02월에 합류한 신입이 이상해요
+
+
 
 <br /><br />
 
@@ -156,7 +166,15 @@ IoT와 빅데이터 기술을 기반으로 헬스케어 플랫폼을 개발하�
 
 
 ## CTO가 전하고 싶은 마음
-![모험가가 필요하다](https://s3.ap-northeast-2.amazonaws.com/caresquare.kr-home/etc/men-wanted.webp)
+  <img src="https://s3.ap-northeast-2.amazonaws.com/caresquare.kr-home/etc/men-wanted.webp" data-canonical-src="https://s3.ap-northeast-2.amazonaws.com/caresquare.kr-home/etc/men-wanted.webp" width="900" />
+  <br>
+  힘들다는 것은 강해지고 있다는 것이고, 실력이 늘고 있다는 증거이며, 능력이 생긴다는 뜻이기 때문에 피하기 보다는 반겨야 할 일이다.
+  <br>
+  나는 내가 원하는 삶을 살 자격이 있고, 그럴 책임이 있다.
+  <br>
+  &lt;나는 꿈이 있어 멈추지 않는다&gt;, 권혜영
+
+<br>
 
 - 케어스퀘어는 스타트업입니다.
 - 케어스퀘어는 성장하고 있습니다.
