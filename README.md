@@ -58,10 +58,8 @@ IoT와 빅데이터 기술을 기반으로 헬스케어 플랫폼을 개발하�
 
 `* 임직원이 함께 성장하는 과정에서 회사도 성장하게 됩니다.`
 
-
-  <img src="https://s3.ap-northeast-2.amazonaws.com/caresquare.kr-home/etc/c2%EC%8B%A0%EC%9E%85.jpg" data-canonical-src="https://s3.ap-northeast-2.amazonaws.com/caresquare.kr-home/etc/c2%EC%8B%A0%EC%9E%85.jpg" width="900" />
-  <br>
-  2022.02월에 합류한 신입이 이상해요
+  <img src="https://s3.ap-northeast-2.amazonaws.com/caresquare.kr-home/etc/c2%EC%8B%A0%EC%9E%85.jpg" data-canonical-src="https://s3.ap-northeast-2.amazonaws.com/caresquare.kr-home/etc/c2%EC%8B%A0%EC%9E%85.jpg" width="900" /><br>
+  🧚2022.02월에 합류한 신입의 커밋 수가 이상해요
 
 
 
