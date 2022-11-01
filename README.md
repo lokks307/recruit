@@ -27,12 +27,12 @@ IoT와 빅데이터 기술을 기반으로 헬스케어 플랫폼을 개발하�
 
 ## 채용중인 분야
 
-* Backend Engineer ([경력무관](backend/junior.md) / [경력채용](backend/senior.md))
-* Frontend Engineer ( closed / [경력채용](frontend/senior.md))
-* Flutter(Mobile) Engineer ( closed / [경력채용](flutter/senior.md))
-* Blockchain Core Researcher ([경력무관](blockchain/researcher.md))
-* Quality Assurance Engineer (경력무관 / 경력채용)
-* 서비스 운영지원인력 (경력무관)
+* Backend Engineer ( [경력무관](backend/junior.md) / [경력채용](backend/senior.md) )
+* Frontend Engineer ( closed / [경력채용](frontend/senior.md) )
+* Flutter(Mobile) Engineer ( closed / [경력채용](flutter/senior.md) )
+* Blockchain Core Researcher ( [경력무관](blockchain/researcher.md) )
+* Quality Assurance Engineer ( closed / closed )
+* 서비스 운영지원인력 ( closed )
 <br /><br />
 
 ## 개발 프로세스
@@ -61,18 +61,18 @@ IoT와 빅데이터 기술을 기반으로 헬스케어 플랫폼을 개발하�
 
 | Category | Descriptions |
 | --- | ---| 
-| 웹 프론트 | Javascript ES6+|
-| 웹 프론트 프레임워크 | Vue 2.x w/ Webpack v4, Vue 3.x w/ Vite |
-| 백엔드 | Golang, gPRC, SQLBoiler, kafka |
-| 백엔드 프레임워크 | Astilectron, Echo, Tethys (자체 개발 블록체인 코어) |
-| 모바일 | Kotlin, Dart |
-| 모바일 프레임워크 | Flutter |
-| 펌웨어 개발 | C, nRF52840 (BLE) |
-| DBMS | MariaDB, PostgreSQL, MSSQL |
-| 시스템 인프라 | AWS, Docker |
-| CI/CD | Jenkins |
-| 버그 트래킹 | Sentry |
-| 형상 관리 | Git, Github |
+| 🌐웹 프론트 | Javascript ES6+|
+|  &nbsp; &nbsp; &nbsp;웹 프론트 프레임워크 | Vue 2.x w/ Webpack v4, Vue 3.x w/ Vite <br> 🙄react로 전환을 고민하는 중 |
+| 🧙백엔드 | Golang, gPRC, SQLBoiler, kafka |
+|  &nbsp; &nbsp; &nbsp;백엔드 프레임워크 | Astilectron, Echo, Tethys (자체 개발 블록체인 코어) |
+| 📱모바일 | Kotlin, Dart |
+|  &nbsp; &nbsp; &nbsp;모바일 프레임워크 | Flutter |
+| 👻펌웨어 개발 | C, nRF52840 (BLE) |
+| 💾DBMS | MariaDB, PostgreSQL, MSSQL |
+| ☀️시스템 인프라 | AWS, Docker |
+| 🔥CI/CD | Jenkins |
+| 💥버그 트래킹 | Sentry |
+| 📜형상 관리 | Git, Github |
 
 <br /><br />
 ## 협업 도구
@@ -102,6 +102,7 @@ IoT와 빅데이터 기술을 기반으로 헬스케어 플랫폼을 개발하�
 * 자율출근제 (9시 ~ 10시 출근)
 * 경조금 / 경조휴가
 * 사내에서 탁구침
+* 아침 수영 동호회
 
 <br /><br />
 
@@ -162,4 +163,3 @@ IoT와 빅데이터 기술을 기반으로 헬스케어 플랫폼을 개발하�
 - 케어스퀘어는 성장하고 있습니다.
 - 우리 회사의 서비스와 기술이 무너지지 않도록 버티는 것은 제가 해내겠습니다. ~~사과도 내몫~~
 - 약속할 수 있는 것은 honor and recognition in case of success.
->  위대한 탐험가 [어니스트 섀클턴](https://terms.naver.com/entry.naver?docId=3566858&cid=59014&categoryId=59014)보다는 사정이 좋습니다.ㅎㅎ!
