@@ -56,10 +56,10 @@ IoT와 빅데이터 기술을 기반으로 헬스케어 플랫폼을 개발하�
 * 직책과 역할이 다를 수 있어도 사람 간의 관계에 있어서는 계급이 존재하지 않습니다.
 * 이렇게 스타트업에서 모험하는 당신에게는 **상당한 경험치**가 남을 거예요. 
 
-`* 임직원이 함께 성장하는 과정에서 회사도 성장하게 됩니다.`
+> 임직원이 함께 성장하는 과정에서 회사도 성장하게 됩니다.
 
   <img src="https://s3.ap-northeast-2.amazonaws.com/caresquare.kr-home/etc/c2%EC%8B%A0%EC%9E%85.jpg" data-canonical-src="https://s3.ap-northeast-2.amazonaws.com/caresquare.kr-home/etc/c2%EC%8B%A0%EC%9E%85.jpg" width="900" /><br>
-  🧚2022.02월에 합류한 신입의 커밋 수가 이상해요
+  🧚2022.02월에 합류한 신입의 커밋 수가 이상해요😇
 
 
 
@@ -147,7 +147,7 @@ IoT와 빅데이터 기술을 기반으로 헬스케어 플랫폼을 개발하�
 <br /><br />
 
 ## 미디어
-  `* 사명이 록스307에서 케어스퀘어로 변경되었습니다.`
+  > 사명이 록스307에서 케어스퀘어로 변경되었습니다.
 
 
 * [임상시험도 ‘디지털화’…희귀질환 치료제 탄생 가능성 높여, 2022-10-13"](https://www.kukinews.com/newsView/kuk202210120145)
@@ -167,11 +167,10 @@ IoT와 빅데이터 기술을 기반으로 헬스케어 플랫폼을 개발하�
 ## CTO가 전하고 싶은 마음
   <img src="https://s3.ap-northeast-2.amazonaws.com/caresquare.kr-home/etc/men-wanted.webp" data-canonical-src="https://s3.ap-northeast-2.amazonaws.com/caresquare.kr-home/etc/men-wanted.webp" width="900" />
   <br>
-  힘들다는 것은 강해지고 있다는 것이고, 실력이 늘고 있다는 증거이며, 능력이 생긴다는 뜻이기 때문에 피하기 보다는 반겨야 할 일이다.
-  <br>
-  나는 내가 원하는 삶을 살 자격이 있고, 그럴 책임이 있다.
-  <br>
-  &lt;나는 꿈이 있어 멈추지 않는다&gt;, 권혜영
+
+> 힘들다는 것은 강해지고 있다는 것이고, 실력이 늘고 있다는 증거이며, 능력이 생긴다는 뜻이기 때문에 피하기 보다는 반겨야 할 일이다.<br>
+나는 내가 원하는 삶을 살 자격이 있고, 그럴 책임이 있다.<br>
+<나는 꿈이 있어 멈추지 않는다>, 권혜영
 
 <br>
 
