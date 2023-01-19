@@ -7,7 +7,7 @@
   - 아임파인 [iOS](https://apps.apple.com/kr/app/%EC%BC%80%EC%96%B4%EC%9D%B4%EC%A6%88-careease/id1573100943) / [Android](https://play.google.com/store/apps/details?id=io.lokks.careease&hl=ko&gl=US)
   - 도즈이즈 [iOS](https://apps.apple.com/kr/app/doseease-%EB%8F%84%EC%A6%88%EC%9D%B4%EC%A6%88-%EB%8C%80%EC%83%81%EC%9E%90%EC%9A%A9/id1496893574) / [Android](https://play.google.com/store/apps/details?id=io.lokks307.doseease&hl=ko&gl=US)
 
-* 👨‍🏫플러터 개발자는 하나의 서비스를 담당하고 고객이 사용하게 될 제품의 코드를 코드를 개발합니다.
+* 👨‍🏫플러터 개발자는 하나의 서비스를 담당하고 고객이 사용하게 될 제품의 코드를 개발합니다.
 * 👨‍🏫길드원과 함께 서비스의 발전 방향을 논의하고 발전시킵니다.
 * 👨‍🏫고객의 피드백을 곰곰히 생각하고 올바른 방향으로 서비스를 개선합니다.
 * 서로 다른 서비스이지만 공통으로 사용할 수 있는 기능을 컴포넌트로 제작합니다.
