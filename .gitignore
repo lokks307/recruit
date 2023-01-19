@@ -1,0 +1,17 @@
+.vscode/*
+
+# Local History for Visual Studio Code
+.history/
+
+# Built Visual Studio Code Extensions
+*.vsix
+
+.search-cache
+.DS_Store
+.env
+.idea/
+.linkinator
+.next
+.eslintcache
+*.tsbuildinfo
+translations/
