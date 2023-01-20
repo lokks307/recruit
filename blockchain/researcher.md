@@ -2,10 +2,6 @@
 
 > 🎖️🪖 전문연구요원 지원 가능합니다.🎖️🪖
 
-
-![전문연구요원 지원가능](https://s3.ap-northeast-2.amazonaws.com/caresquare.kr-home/etc/title_%EC%A0%84%EB%AC%B8%EC%97%B0%EA%B5%AC%EC%9A%94%EC%9B%90.jpg)
-
-
 ## 주요 업무
 
 * 케어스퀘어의 블록체인 tethys를 연구/개발합니다.
@@ -15,7 +11,13 @@
   * 블록체인 스캐너 개발
   * 스탠다드 컨트랙트 개발
 
+* 혹시 블록체인에 관심이 없으신가요?
+  - [backend로 전문연 지원하기](../backend/junior.md)
+  - [frontend로 전문연 지원하기](../frontend/junior.md)
+  - [mobile app으로 전문연 지원하기](../flutter/junior.md)
+  
 <br /><br />
+
 ## 최소 요건
 
 * 컴퓨터공학과 또는 정보통신계열 학사 이상
