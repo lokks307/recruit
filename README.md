@@ -53,10 +53,10 @@
 
 ## 채용중인 분야
 
-* Backend Engineer ( [신입](backend/junior.md) / [경력채용](backend/senior.md) )
+* Backend Engineer ( closed / closed )
 * Frontend Engineer ( closed / closed )
 * Flutter(Mobile) Engineer ( closed / closed )
-* Blockchain Core Researcher ( [컴퓨터공학전공 석사/박사](blockchain/researcher.md) )
+* Researcher ( [컴퓨터공학전공 석사/박사](blockchain/researcher.md), 1자리 남았어요 )
 * Quality Assurance Engineer ( closed / closed )
 * 서비스 운영지원인력 ( closed )
 <br /><br />
