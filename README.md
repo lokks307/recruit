@@ -9,7 +9,7 @@
 우리는 헬스케어 플랫폼을 개발하는 회사입니다.
 동네 병원부터 임상시험에 사용되는 소프트웨어를 개발하고 운영하며 우리의 창업 이야기를 만들어가고 있습니다.
 
-회사 규모에 비해 우리가 다루는 기술내용이 많아요. 사내 git repo가 100개가 넘었습니다 😇
+회사 규모에 비해 우리가 다루는 기술내용이 많아요. 사내 git repository 수가 136개 입니다..😇
 회사 구성원 대부분이 개발자여서 그럴지도 모르겠어요.
 하지만 사업을 지원해주는 든듣한 고객지원팀과 함께 동고동락하며 우리의 서비스를 만들어가는 중입니다.
 
@@ -56,7 +56,7 @@
 * Backend Engineer ( closed / closed )
 * Frontend Engineer ( closed / closed )
 * Flutter(Mobile) Engineer ( closed / closed )
-* Researcher ( [컴퓨터공학전공 석사/박사](blockchain/researcher.md), 1자리 남았어요 )
+* Researcher ( [컴퓨터공학전공 석사/박사](researcher/researcher.md), 1자리 남았어요 )
 * Quality Assurance Engineer ( closed / closed )
 * 서비스 운영지원인력 ( closed )
 <br /><br />
@@ -98,28 +98,28 @@
 
 ## 기술 스택
 
-| Category | Descriptions |
-| --- | ---| 
-| 🌐웹 프론트 | Javascript ES6+|
-|  &nbsp; &nbsp; &nbsp;웹 프론트 프레임워크 | Vue 2.x w/ Webpack v4, Vue 3.x w/ Vite <br> 🙄react로 전환을 고민하는 중 |
-| 🧙백엔드 | Golang, gPRC, SQLBoiler, kafka |
-|  &nbsp; &nbsp; &nbsp;백엔드 프레임워크 | Astilectron, Echo, Tethys (자체 개발 블록체인 코어) |
-| 📱모바일 | Kotlin, Dart |
-|  &nbsp; &nbsp; &nbsp;모바일 프레임워크 | Flutter |
-| ~~👻펌웨어 개발~~ | ~~C, nRF52840 (BLE)~~ |
-| 💾DBMS | MariaDB, PostgreSQL, MSSQL |
-| ☀️시스템 인프라 | AWS, Docker |
-| 🔥CI/CD | Jenkins |
-| 💥버그 트래킹 | Sentry |
-| 📜형상 관리 | Git, Github |
+| Category                                 | Descriptions                                                            |
+| ---------------------------------------- | ----------------------------------------------------------------------- |
+| 🌐웹 프론트                               | Javascript ES6+                                                         |
+| &nbsp; &nbsp; &nbsp;웹 프론트 프레임워크 | Vue 2.x w/ Webpack v4, Vue 3.x w/ Vite <br> 🙄react로 전환을 고민하는 중 |
+| 🧙백엔드                                  | Golang, gPRC, SQLBoiler, kafka                                          |
+| &nbsp; &nbsp; &nbsp;백엔드 프레임워크    | Astilectron, Echo, Tethys                                               |
+| 📱모바일                                  | Kotlin, Dart                                                            |
+| &nbsp; &nbsp; &nbsp;모바일 프레임워크    | Flutter                                                                 |
+| ~~👻펌웨어 개발~~                         | ~~C, nRF52840 (BLE)~~                                                   |
+| 💾DBMS                                    | MariaDB, PostgreSQL, MSSQL                                              |
+| ☀️시스템 인프라                           | AWS, Docker                                                             |
+| 🔥CI/CD                                   | Jenkins                                                                 |
+| 💥버그 트래킹                             | Sentry                                                                  |
+| 📜형상 관리                               | Git, Github                                                             |
 
 <br /><br />
 ## 협업 도구
-| 용도 | 도구 |
-| --- | --- |
-| 이슈 트래킹 | Trello, github issue |
-| 문서 관리 | Confluence, Office 365 |
-| 메신저 | MS Teams |
+| 용도        | 도구                   |
+| ----------- | ---------------------- |
+| 이슈 트래킹 | Trello, github issue   |
+| 문서 관리   | Confluence, Office 365 |
+| 메신저      | MS Teams               |
  
 <br /><br />
 
