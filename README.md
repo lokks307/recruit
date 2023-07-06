@@ -56,7 +56,7 @@
 * Backend Engineer ( closed / closed )
 * Frontend Engineer ( closed / closed )
 * Flutter(Mobile) Engineer ( closed / closed )
-* Researcher ( [컴퓨터공학전공 석사/박사](blockchain/researcher.md), 1자리 남았어요 )
+* Researcher ( [컴퓨터공학전공 석사/박사](researcher/researcher.md), 1자리 남았어요 )
 * Quality Assurance Engineer ( closed / closed )
 * 서비스 운영지원인력 ( closed )
 <br /><br />
@@ -98,28 +98,28 @@
 
 ## 기술 스택
 
-| Category | Descriptions |
-| --- | ---| 
-| 🌐웹 프론트 | Javascript ES6+|
-|  &nbsp; &nbsp; &nbsp;웹 프론트 프레임워크 | Vue 2.x w/ Webpack v4, Vue 3.x w/ Vite <br> 🙄react로 전환을 고민하는 중 |
-| 🧙백엔드 | Golang, gPRC, SQLBoiler, kafka |
-|  &nbsp; &nbsp; &nbsp;백엔드 프레임워크 | Astilectron, Echo, Tethys (자체 개발 블록체인 코어) |
-| 📱모바일 | Kotlin, Dart |
-|  &nbsp; &nbsp; &nbsp;모바일 프레임워크 | Flutter |
-| ~~👻펌웨어 개발~~ | ~~C, nRF52840 (BLE)~~ |
-| 💾DBMS | MariaDB, PostgreSQL, MSSQL |
-| ☀️시스템 인프라 | AWS, Docker |
-| 🔥CI/CD | Jenkins |
-| 💥버그 트래킹 | Sentry |
-| 📜형상 관리 | Git, Github |
+| Category                                 | Descriptions                                                            |
+| ---------------------------------------- | ----------------------------------------------------------------------- |
+| 🌐웹 프론트                               | Javascript ES6+                                                         |
+| &nbsp; &nbsp; &nbsp;웹 프론트 프레임워크 | Vue 2.x w/ Webpack v4, Vue 3.x w/ Vite <br> 🙄react로 전환을 고민하는 중 |
+| 🧙백엔드                                  | Golang, gPRC, SQLBoiler, kafka                                          |
+| &nbsp; &nbsp; &nbsp;백엔드 프레임워크    | Astilectron, Echo, Tethys                                               |
+| 📱모바일                                  | Kotlin, Dart                                                            |
+| &nbsp; &nbsp; &nbsp;모바일 프레임워크    | Flutter                                                                 |
+| ~~👻펌웨어 개발~~                         | ~~C, nRF52840 (BLE)~~                                                   |
+| 💾DBMS                                    | MariaDB, PostgreSQL, MSSQL                                              |
+| ☀️시스템 인프라                           | AWS, Docker                                                             |
+| 🔥CI/CD                                   | Jenkins                                                                 |
+| 💥버그 트래킹                             | Sentry                                                                  |
+| 📜형상 관리                               | Git, Github                                                             |
 
 <br /><br />
 ## 협업 도구
-| 용도 | 도구 |
-| --- | --- |
-| 이슈 트래킹 | Trello, github issue |
-| 문서 관리 | Confluence, Office 365 |
-| 메신저 | MS Teams |
+| 용도        | 도구                   |
+| ----------- | ---------------------- |
+| 이슈 트래킹 | Trello, github issue   |
+| 문서 관리   | Confluence, Office 365 |
+| 메신저      | MS Teams               |
  
 <br /><br />
 
