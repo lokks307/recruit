@@ -54,9 +54,9 @@
 ## 채용중인 분야
 
 * Backend Engineer ( closed / closed )
-* Frontend Engineer ( closed / closed )
+* Frontend Engineer ( [신입](frontend/junior.md) / [경력](frontend/senior.md), 1자리 있어요)
 * Flutter(Mobile) Engineer ( closed / closed )
-* Researcher ( [컴퓨터공학전공 석사/박사](researcher/researcher.md), 1자리 남았어요 )
+* Researcher ( [컴퓨터공학전공 석사/박사](researcher/researcher.md), 1자리 있어요)
 * Quality Assurance Engineer ( closed / closed )
 * 서비스 운영지원인력 ( closed )
 <br /><br />
