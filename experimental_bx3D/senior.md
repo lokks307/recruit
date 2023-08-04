@@ -32,6 +32,7 @@ Care²<br />
   - 서비스 전반에서 사용될 3D Assets의 제작
   - 제작된 Assets를 활용한 GUI 디자인
 <br />
+
 #### Brand Design
   - 아임파인 브랜드 리뉴얼 및 체계 확립
   - Mobile - Web 을 넘어서 오프라인까지 확장가능한 브랜드 전략 수립
