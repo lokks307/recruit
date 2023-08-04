@@ -53,12 +53,21 @@
 
 ## 채용중인 분야
 
+ ☀️ reposity를 즐겨찾기 해주세요. 채용 소식을 빠르게 받으실 수 있어요!
+
 * Backend Engineer ( closed / closed )
 * Frontend Engineer ( [신입](frontend/junior.md) / [경력](frontend/senior.md), 1자리 있어요)
 * Flutter(Mobile) Engineer ( closed / closed )
 * Researcher ( [컴퓨터공학전공 석사/박사](researcher/researcher.md), 1자리 있어요)
 * Quality Assurance Engineer ( closed / closed )
 * 서비스 운영지원인력 ( closed )
+* BX 3D 디자이너 ( 준비중 )
+* 세일즈 매니저 ( 준비중 )
+* UI Designer ( 준비중 )
+* 채용 사전 예약 ( 준비중 )
+
+
+
 <br /><br />
 
 ## 개발 프로세스
