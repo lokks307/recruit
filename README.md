@@ -61,12 +61,10 @@
 * Researcher ( [컴퓨터공학전공 석사/박사](researcher/researcher.md), 1자리 있어요)
 * Quality Assurance Engineer ( closed / closed )
 * 서비스 운영지원인력 ( closed )
-* BX 3D 디자이너 ( 준비중 )
-* 세일즈 매니저 ( 준비중 )
-* UI Designer ( 준비중 )
+* BX 3D 디자이너 ( [경력](experimental_bx3D/senior.md) )
+* UI Designer ( [경력](experimental_design/senior.md) )
+* 세일즈 매니저 ( [경력](experimental_sales/senior.md) )
 * 채용 사전 예약 ( 준비중 )
-
-
 
 <br /><br />
 
