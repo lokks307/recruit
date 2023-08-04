@@ -56,7 +56,7 @@
  ☀️ reposity를 즐겨찾기 해주세요. 채용 소식을 빠르게 받으실 수 있어요!
 
 * Backend Engineer ( closed / closed )
-* Frontend Engineer ( [신입](frontend/junior.md) / [경력](frontend/senior.md), 1자리 있어요)
+* Frontend Engineer ( [신입]( closing ) / [경력]( closing ), 인터뷰 전형이 진행중입니다)
 * Flutter(Mobile) Engineer ( closed / closed )
 * Researcher ( [컴퓨터공학전공 석사/박사](researcher/researcher.md), 1자리 있어요)
 * Quality Assurance Engineer ( closed / closed )
@@ -110,7 +110,7 @@
 | Category                                 | Descriptions                                                            |
 | ---------------------------------------- | ----------------------------------------------------------------------- |
 | 🌐웹 프론트                               | Javascript ES6+                                                         |
-| &nbsp; &nbsp; &nbsp;웹 프론트 프레임워크 | Vue 2.x w/ Webpack v4, Vue 3.x w/ Vite <br> 🙄react로 전환을 고민하는 중 |
+| &nbsp; &nbsp; &nbsp;웹 프론트 프레임워크 | Vue 2.x w/ Webpack v4, Vue 3.x w/ Vite <br> 🙄react로 전환중... |
 | 🧙백엔드                                  | Golang, gPRC, SQLBoiler, kafka                                          |
 | &nbsp; &nbsp; &nbsp;백엔드 프레임워크    | Astilectron, Echo, Tethys                                               |
 | 📱모바일                                  | Kotlin, Dart                                                            |
@@ -149,8 +149,6 @@
 * 열심히 일한 직원에게 연말 특별 보너스 지급(헌신에 보답하기 위해 금융치료를 해드립니다)
 * 10시 출근
 * 경조금 / 경조휴가
-* 사내에서 탁구침
-* 아침 수영 동호회 운영
 
 <br /><br />
 
