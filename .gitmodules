@@ -1,0 +1,3 @@
+[submodule "__training__"]
+	path = __training__
+	url = git@github.com:lokks307/training-newbie.git
