@@ -56,7 +56,7 @@
  ☀️ reposity를 즐겨찾기 해주세요. 채용 소식을 빠르게 받으실 수 있어요!
 
 * Backend Engineer ( closed / closed )
-* Frontend Engineer ( [신입](frontend/junior.md) / [경력](frontend/senior.md))
+* Frontend Engineer ( closing / closing ) : 인터뷰 진행중
 * Flutter(Mobile) Engineer ( closed / closed )
 * Researcher ( [컴퓨터공학전공 석사/박사](researcher/researcher.md), 1자리 있어요)
 * Quality Assurance Engineer ( closed / closed )
